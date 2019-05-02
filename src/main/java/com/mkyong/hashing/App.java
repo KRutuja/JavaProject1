@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 System.out.println( "How you doing!" );
+System.out.println( "How are you!" );
     }
 public boolean isPrime(int n) {
 
